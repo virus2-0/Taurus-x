@@ -5,10 +5,10 @@
 ##### ▶ CHANGE MY USERNAME I-AM-MUHAMMED TO YOUR USER NAME AND DEPLOY
 
 <p align="center">
-𝐓𝐀𝐔𝐑𝐔𝐒 𝐁𝐎𝐓
 
+*~_____________~* *𝑃𝑟𝑜𝑓𝑒𝑠𝑠𝑜𝑟 ~_____________~*
 <p align="center">
-𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 ❤︎ 𝙱𝚈 𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳
+𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 ❤︎ 𝙱𝚈 Professor
 
 ##
 <a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
@@ -23,16 +23,16 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="TAURUS" src="https://img.shields.io/badge/taurus-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
+<a href="#"><img title="Professor" src="https://img.shields.io/badge/taurus-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
 
 </p>
        
   <p align="center">
-<a href="https://github.com/muhammed-userbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/userbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/msrbot">muhammed-usrbot</a>
     <br>
        | © |
         Reserved |
@@ -46,11 +46,11 @@
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhammed-usrbot/taurus-x.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rbot/taurus-x.git) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@muhammed-userbot/Taurus-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/userbot/Taurus-QR)
 
-<a href="https://taurus0.yolasite.com">`TAURUS SITE`</a>
+<a href="https://tauasite.com">` SITE`</a>
     <br>
 
 ### The Hard Method
@@ -58,7 +58,7 @@
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/I-AM-MUHAMMED/Taurus-Bot
+$ git clone https://github.com/virus/Taurus-Bot
 $ cd Taurus-Bot
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -67,7 +67,7 @@ $ node Taurus.js
       
 ```js
 SETUP
-$ git clone https://github.com/I-AM-MUHAMMED/Taurus-Bot
+$ git clone https://github.com/ID/Taurus-Bot
 $ cd Taurus-Bot
 $ npm i
 $ node Taurus.js
